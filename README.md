@@ -41,7 +41,6 @@ Este proyecto implementa un **sistema de infraestructura tolerante a fallos** de
 - **Ubuntu Server** - Sistema operativo base
 - **PM2** - Gestor de procesos con clustering
 - **Nginx** - Proxy reverso y balanceador de carga
-- **Docker** - Contenedorización (opcional)
 
 ## 🛠️ Instalación y Configuración
 
