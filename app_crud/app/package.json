@@ -1,0 +1,28 @@
+{
+  "name": "simple-crud-app",
+  "version": "1.0.0",
+  "description": "Un CRUD simple con Express.js y frontend elegante",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "express",
+    "nodejs",
+    "frontend",
+    "fullstack"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
